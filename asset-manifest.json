@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/React/static/js/main.e81e7d77.js",
+    "static/css/66.f7867faf.chunk.css": "/React/static/css/66.f7867faf.chunk.css",
+    "static/js/66.a3ad6525.chunk.js": "/React/static/js/66.a3ad6525.chunk.js",
+    "static/media/logo-minuto-01.png": "/React/static/media/logo-minuto-01.c01f9f4b3448597fe09f.png",
+    "index.html": "/React/index.html",
+    "main.e81e7d77.js.map": "/React/static/js/main.e81e7d77.js.map",
+    "66.f7867faf.chunk.css.map": "/React/static/css/66.f7867faf.chunk.css.map",
+    "66.a3ad6525.chunk.js.map": "/React/static/js/66.a3ad6525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e81e7d77.js"
+  ]
+}
